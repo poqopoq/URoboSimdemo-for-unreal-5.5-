@@ -1,15 +1,14 @@
 [submodule "Plugins/URoboVision"]
 	path = Plugins/URoboVision
 	url = https://github.com/urobosim/URoboVision.git
-        branch = 4.25
+        branch = master
 [submodule "Plugins/UUtils"]
 	path = Plugins/UUtils
 	url = https://github.com/urobosim/UUtils.git
-        branch = 4.25_backward
+        branch = master
 [submodule "Plugins/UROSWorldControl"]
 	path = Plugins/UROSWorldControl
 	url = https://github.com/urobosim/UROSWorldControl.git
-        branch = 4.25
 [submodule "Plugins/URoboSim"]
 	path = Plugins/URoboSim
 	url = https://github.com/urobosim/URoboSim.git
